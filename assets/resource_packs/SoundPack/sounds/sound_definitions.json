@@ -1,0 +1,9 @@
+{
+  "bedrock.levelup": {
+    "sounds": [
+      {
+        "name": "sounds/event/bedrock_levelup"
+      }
+    ]
+  }
+}

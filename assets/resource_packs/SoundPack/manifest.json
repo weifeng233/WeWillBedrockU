@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "The sounds of We will bedrock u, don't remove",
+      "name" : "We will Bedrock U Sound Pack",
+      "uuid" : "acd2fc9e-acd5-fc8f-a04d-33e2e36bdd68",
+      "version" : [1, 0, 0]
+   },
+   "modules" : [
+      {
+         "description" : "Don't remove, please.",
+         "type" : "resources",
+         "uuid" : "6cd8a38a-2ee1-b50d-65ed-438c8478f06e",
+         "version" : [1, 0, 0]
+      }
+   ]
+}

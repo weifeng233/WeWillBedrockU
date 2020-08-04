@@ -1,0 +1,16 @@
+header.js
+callback.js
+translation.js
+
+core/core.js
+core/structure.js
+core/world_gen.js
+
+block/bedrock_anvil.js
+
+item/food.js
+item/bedrock_compass.js
+item/bedrock_pickaxe.js
+item/bedrock_sword.js
+
+integration/loa.js
